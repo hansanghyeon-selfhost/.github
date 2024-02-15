@@ -1,1 +1,4 @@
-# .github
+- docker composer 사용
+- [traefik](https://github.com/hansanghyeon-selfhost/traefik)기반으로 인프라가 구성
+- kubernetes는 사용하지 않습니다.
+  - HA구성이 필요하다면 docker swarm을 사용
