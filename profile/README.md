@@ -14,4 +14,5 @@
 <br/>👩‍💻 [traefik](https://github.com/hansanghyeon-selfhost/traefik)기반으로 인프라가 구성
 <br/>👩‍💻 kubernetes는 사용하지 않습니다.
 <br/>🧙 self-host를 좀더 손쉽게 구성하기위해서 여러 서비스들의 docker-compose 구성해놓습니다
-<br/>🚧 docker swarm로 이전
+<br/><s>🚧 docker swarm로 이전</s>
+<br/>🚧 docker context
